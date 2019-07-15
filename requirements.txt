@@ -1,0 +1,4 @@
+numpy==1.16.4
+opencv-contrib-python==4.1.0.25
+Pillow==6.0.0
+rope==0.14.0
